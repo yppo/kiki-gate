@@ -16,4 +16,4 @@ So there was the need to control the cat flap without getting out the bed during
  * 1 NPN transistor
  
  
-![Version 0.1](version-0.1jpg)
+![Version 0.1](version-0.1.jpg)

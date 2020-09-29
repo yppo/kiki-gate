@@ -9,8 +9,8 @@ At the same time, I was having problems with my cat, Kiki. He would bring live m
 So there was the need to control the cat flap without getting out the bed during the night. ;)
 
 ## Items used
- * MakerHawk D1 Mini NodeMcu 4M Bytes Lua WIFI Development Board Base on ESP8266 ESP-12F N Compatible NodeMcu Arduino ([Amazon](https://www.amazon.co.uk/MakerHawk-NodeMcu-Development-ESP8266-Compatible/dp/B071S8MWTY))
- * Cat Flap - [SureFlap Dual Scan Microchip](https://www.amazon.co.uk/gp/product/B00GAZZIMY/r)
+ * MakerHawk D1 Mini NodeMcu 4M Bytes Lua WIFI Development Board Base on ESP8266 ESP-12F N Compatible NodeMcu Arduino ([Amazon](https://amzn.to/33cHNY3))
+ * Cat Flap - [SureFlap Dual Scan Microchip](https://amzn.to/36gjk5L)
  * breadboar
  * wires
  * 1 NPN transistor
